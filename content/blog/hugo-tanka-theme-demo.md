@@ -17,7 +17,7 @@ meta_img: images/example.jpg
 
 Follows the Bootstrap typography.
 
-# h1 Heading
+# hello peoples, I am ___. Hello, goodbye
 
 ## h2 Heading
 
@@ -27,7 +27,7 @@ Follows the Bootstrap typography.
 
 ##### h5 Heading
 
-###### h6 Heading
+###### hiiiiiii, bai
 
 ---
 
