@@ -9,23 +9,43 @@ meta_img: images/example.jpg
 
 <div class="figure">
 
-![](/images/example.jpg)
+![](/images/dragino.jpg)
 
-![](/images/blob.jpg)
+<div class="gallery items-2">
+  <div id="item-1" class="control-operator"></div>
+  <div id="item-2" class="control-operator"></div>
 
-## Typography
+  <figure class="item">
+  ![](./images/dragino.jpg)
+  Pasta with zucchini, potatoes and sausage
+  </figure>
 
-Follows the Bootstrap typography.
+  <figure class="item">
+  ![](./images/cowdude.jpg)
+  Pasta with zucchini, potatoes and sausage
+  </figure>
 
-# hello peoples, I am ___. Hello, goodbye
+  <div class="controls">
+    <a href="#item-1" class="control-button">•</a>
+    <a href="#item-2" class="control-button">•</a>
+  </div>
+</div>
 
-## h2 Heading
+<p><iframe src="https://docs.google.com/presentation/d/1nTXlR5vwSNPNBADHy_n1o3PR9fDvJ-f1mUtvwC7A40w/present#slide=id.g155ec42af60_0_7/embed?start=true&#038;loop=true&#038;delayms=3000" frameborder="0" width="800" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></p>
 
-### h3 Heading
+#### 1. Mother's Day Clay Dragon
 
-#### h4 Heading
+# Clay ArtWork 
 
-##### h5 Heading
+## hello peoples, I am ___. Hello, goodbye
+
+### h2 Heading
+
+#### h3 Heading
+
+##### h4 Heading
+
+###### h5 Heading
 
 ###### hiiiiiii, bai
 

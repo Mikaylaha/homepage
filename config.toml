@@ -40,10 +40,14 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\
     url = "https://github.com/Mikaylaha"
     weight = 3
 [[menu.primary]]
-    name = "YT"
+    name = "YouTube"
     url = "https://www.youtube.com/channel/UCJ79Yf4ExEluKiT2CTgEHOQ"
     weight = 4
 [[menu.primary]]
-    name = "Subscribe"
-    url = "/index.xml"
+    name = "Echoes"
+    url = "https://echothejoy.wixsite.com/echoes"
     weight = 5
+[[menu.primary]]
+    name = "Info"
+    url = "/Info/"
+    weight = 6
